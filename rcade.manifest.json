@@ -1,0 +1,18 @@
+{
+  "$schema": "https://rcade.dev/manifest.schema.json",
+  "name": "Clock",
+  "display_name": "Clock",
+  "description": "Just a clock!",
+  "visibility": "public",
+  "authors": [
+    {
+      "display_name": "Keenan Croucher"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "@rcade/input-classic",
+      "version": "1.0.0"
+    }
+  ]
+}
