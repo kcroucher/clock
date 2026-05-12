@@ -22,7 +22,7 @@ const sketch = (p: p5) => {
   let noon_angle: number;
 
   p.preload = () => {
-    ancient_bg = p.loadImage("public/ancient.jpg");
+    ancient_bg = p.loadImage("ancient.jpg");
   };
 
   p.setup = () => {
